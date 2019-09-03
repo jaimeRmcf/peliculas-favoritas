@@ -1,1 +1,12 @@
-# peliculas-favoritas
+<p> peliculas favoritas <p>
+  <LI> BATMAN </LI>
+  <LI> EL FRANCOTIRADOR </LI>
+  <LI> CORAZONES DE ACERO  </LI>
+  <LI> THE BOURNE </LI>
+  <LI> EL INTOCABLE  </LI>
+  <LI> SUPERMAN </LI>
+  <LI> ROCKY </LI>
+  <LI> SALVAR AL SOLDADO RYAN  </LI>
+  < L>I EL ULTIMO SUPERVIVENTE </LI>
+  <LI> PIRATAS DEL CARIBE </LI>
+  
